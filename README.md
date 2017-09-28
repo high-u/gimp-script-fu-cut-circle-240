@@ -1,0 +1,1 @@
+# gimp-script-fu-cut-circle-240
